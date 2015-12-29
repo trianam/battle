@@ -5,4 +5,4 @@ For installing and using it on modern systems (tested on Windows 7 64 bits) down
 - add code directory to Turbo C++ directories lists for the includes;
 - change path in interfac.cpp:6 to "sprites" directory under your code directory;
 - change path in interfac.cpp:13 to "bgi" directory under your Turbo C++ install directory;
-- run.
+- compile and run.
